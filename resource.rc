@@ -1,0 +1,8 @@
+/* NAME: Andrey Anatolievich Melnikov, ИТз-441
+ * ASGN: N1
+ *
+ * Меню создаётся программно в CreateAppMenu() из lang.ini.
+ * Этот файл оставлен для совместимости с vcxproj.
+ */
+
+#include "resource.h"
